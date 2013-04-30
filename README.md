@@ -2,5 +2,5 @@ Mieze-trifft-auf-Grizzly
 ========================
 
 Game
-
-$ git add Einleitung
+ 
+Der Grizzly schläft und wird von der Sonne wachgeküßt
